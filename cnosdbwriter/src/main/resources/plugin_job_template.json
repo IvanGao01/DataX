@@ -1,0 +1,10 @@
+{
+    "name": "cnosdbwriter",
+    "parameter": {
+        "username": "root",
+        "password": "",
+
+        "column": ["xxxx","12"],
+        "batchsize": 1000
+    }
+}
